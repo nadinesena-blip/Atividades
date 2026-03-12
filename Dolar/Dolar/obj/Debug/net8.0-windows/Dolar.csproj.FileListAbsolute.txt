@@ -1,0 +1,16 @@
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\bin\Debug\net8.0-windows\Dolar.exe
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\bin\Debug\net8.0-windows\Dolar.deps.json
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\bin\Debug\net8.0-windows\Dolar.runtimeconfig.json
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\bin\Debug\net8.0-windows\Dolar.dll
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\bin\Debug\net8.0-windows\Dolar.pdb
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.Form1.resources
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.csproj.GenerateResource.cache
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.AssemblyInfoInputs.cache
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.AssemblyInfo.cs
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.csproj.CoreCompileInputs.cache
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.dll
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\refint\Dolar.dll
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.pdb
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\Dolar.genruntimeconfig.cache
+C:\Users\nadine.msena\source\repos\Dolar\Dolar\obj\Debug\net8.0-windows\ref\Dolar.dll
